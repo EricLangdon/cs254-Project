@@ -1,5 +1,6 @@
 #ignore csv files, larger than 100MB
-data
+data/pitchData2019.csv
+data/pitchData2018.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
